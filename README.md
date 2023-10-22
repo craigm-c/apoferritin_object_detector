@@ -9,7 +9,7 @@ The notebook begins by loading the 'yolov8m.pt' model, which serves as a pre-tra
 
 ![Random_hyperparameters](images/hyperparameters_random.png)
 
-To enhance the models accuracy further, a grid based hyperparameter optimisation was applied to tried which gave a slight improvement in the mAP50 metric (see below) showing th model was alread well optimised for this function.
+To enhance the models accuracy further, a grid based hyperparameter optimisation was applied to tried which gave a slight improvement in the mAP50 metric (see below) showing the model was already well optimised for this function.
 
 ![Grid_hyperparameters](images/hyperparameters_grid.png)
 
