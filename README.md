@@ -11,7 +11,7 @@ The notebook begins by loading the 'yolov8m.pt' model, which serves as a pre-tra
 
 To enhance the models accuracy further, a grid based hyperparameter optimisation was applied to tried which gave a slight improvement in the mAP50 metric (see below) showing th model was alread well optimised for this function.
 
-![Grid_hyperparameters](images/hyperparameters_random.png)
+![Grid_hyperparameters](images/hyperparameters_grid.png)
 
 The resulting mAP50 of 0.961 and mAP75 of 0.925 demonstrate the high accuracy of the model in successfully detecting instances of the apoferritin protein complex within the cryo-EM data (see below)
 
